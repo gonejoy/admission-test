@@ -1,0 +1,9 @@
+1. What is Git and why is it used?
+簡單來說是版本控制系統，是一套為了方便管理開發過程中系統程式碼的工具，可以方便記錄不同版本的程式碼或檔案的內容，以及讓開發者可以方便共同作業．
+（但以前沒碰過 Git (以前都用 TFS), 所以還在學習中）
+
+2. What is the difference between List, Dictionary, Tuple and Set in Python?
+ List : 列表，存放在裡面的元素基本上沒有型別的限制，index 從 0 開始計算
+ Dictionary : 字典，有 key 及 value 互相做對應，可以用 key 來找需要的 Value
+ Tuple : 跟 List 很像，但其元素的值無法被變更，index 一樣從 0 開始計算
+ Set : 沒有順序的集合，並且相同的值的元素只能存在一個
