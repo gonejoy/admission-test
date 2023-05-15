@@ -5,7 +5,7 @@ def find_max(numbers):
     num = numbers[0]
     for i in numbers:
         if i > num:
-            num = i
+            num = 
     return num
 
 
